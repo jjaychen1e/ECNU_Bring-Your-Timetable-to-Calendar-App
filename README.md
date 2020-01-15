@@ -33,13 +33,14 @@ A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to
 ## 效果如何？
 
 <div align="center">
-  <img align="center" src="./Images/ScreenShot_01.jpeg"
+    <img src="./Images/ScreenShot_01.jpeg"
        width="35%">
-</div>
-
-<div align="center">
-  “下个日程” 组件效果
-</div>
+    <img src="./Images/ScreenShot_04.png"
+       width="35%">
+    <div>
+    	“下个日程” 组件效果 与 iPhone 日历 app 效果
+    </div>
+<div>
 
 
 <div align="center">
@@ -60,17 +61,6 @@ Mac 日历 app 效果
 <div align="center">
 iPad 日历 app 效果
 </div>
-
-
-<div align="center">
-  <img align="center" src="./Images/ScreenShot_04.png"
-       width="35%">
-</div>
-
-<div align="center">
-iPhone 日历 app 效果(竖屏，横屏与 iPad 类似)
-</div>
-
 
 ## 怎么用？
 
