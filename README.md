@@ -40,7 +40,7 @@ A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to
     <div>
     	“下个日程” 组件效果 与 iPhone 日历 app 效果
     </div>
-<div>
+</div>
 
 
 <div align="center">
