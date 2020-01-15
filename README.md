@@ -27,3 +27,13 @@ A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to
 > 快捷指令可以自动化各种任务，例如，获取前往“日历”上下一个日程的路线、将文本从一个 App 移到另一个 App、生成支出报告等。
 >
 > 基于您使用 iOS 或 iPadOS 设备的方式，如 App 使用以及浏览器、电子邮件和信息历史记录，Siri 可以建议简单实用的快捷指令，快速轻点即可运行。创建快捷指令后，您可以直接召唤 Siri，然后说出快捷指令的名称即可运行它。
+>
+> --- 摘录自 Apple 支持
+
+## 效果如何？
+
+<div align="center">
+  <img align="center" src="./Images/ScreenShot_01.jpeg"
+       width="35%">
+</div>
+
