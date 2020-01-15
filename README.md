@@ -7,13 +7,14 @@
 Bring Your Timetable to Calendar App(ECNU)
 </h1>
 <h4 align="center">
-A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to Calendar app.
+A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to Calendar app.🚀
 </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/branch-master-brightgreen.svg">
   <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg">
 </div>
-https://www.icloud.com/shortcuts/45beb30bfd6b4e378cee8338910c31e0
+
+https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
 
 
 ## 这是什么？
@@ -80,7 +81,7 @@ iPad 日历 app 效果
 
 ## 如何使用？
 
-0⃣️ 在 Safari 中打开本快捷指令的[分享链接](https://www.icloud.com/shortcuts/45beb30bfd6b4e378cee8338910c31e0)，将其添加到您的快捷指令中。并<u>在快捷指令 app 内编辑该快捷指令，将学期 ID 修改为您需要的学期</u>，当前默认为 2019-2020学年第二学期，具体信息参阅快捷指令内的注释。（若您已卸载内置的快捷指令 app，可以在 App Store 中重新下载。）
+0⃣️ 在 Safari 中打开本快捷指令的[分享链接](https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff)，将其添加到您的快捷指令中。并<u>在快捷指令 app 内编辑该快捷指令，将学期 ID 修改为您需要的学期</u>，当前默认为 2019-2020学年第二学期，具体信息参阅快捷指令内的注释。（若您已卸载内置的快捷指令 app，可以在 App Store 中重新下载。）
 
 > 在 iOS/iPadOS 13 中需要打开“**允许不受信任的快捷指令**”选项，才能自由地安装来自外部分享的快捷指令。您可能需要开启**允许不受信任的快捷指令**。具体路径为：**设置–快捷指令–共享安全性–允许不受信任的快捷指令**。如图所示：
 >
@@ -100,6 +101,15 @@ iPad 日历 app 效果
 3⃣️ 打开 Safari 浏览器的 Share Sheet，选择 **Bring Your Timetable to Calendar App(ECNU)**。
 
 4⃣️ 根据提示输入登录的验证码、开学日期等。等待捷径完成，它可能需要几十秒的时间。（第一次运行可能需要您同意数次向华东师范大学公共数据库发送网络请求的操作。）
+
+### 操作示意图 📖
+
+该 GIF 文件较大，可能需要等待较久。
+
+<div align="center">
+<img align="center" src="./Images/ScreenShot_06.gif"
+    width="35%">
+</div>
 
 ### 注意 ⚠️
 
