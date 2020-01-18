@@ -86,13 +86,15 @@ iPad 日历 app 效果
 > 在 iOS/iPadOS 13 中需要打开“**允许不受信任的快捷指令**”选项，才能自由地安装来自外部分享的快捷指令。您可能需要开启**允许不受信任的快捷指令**。具体路径为：**设置–快捷指令–共享安全性–允许不受信任的快捷指令**。如图所示：
 >
 > <div align="center">
->   <img align="center" src="./Images/ScreenShot_05.jpg"
->        width="35%">
+> <img align="center" src="./Images/ScreenShot_05.jpg"
+>     width="35%">
 > </div>
 >
 > <div align="center">
 > 	允许不受信任的快捷指令
 > </div>
+>
+> 如果你的 “允许不受信任的快捷指令”**开关为灰色**，说明你的快捷指令 app 从来没有被使用过。你需要打开 “快捷指令” app 运行任意快捷指令（当然，不能运行还未信任的快捷指令。不过一切都还好，因为它会有一些自带的快捷指令），再前往“设置” > “快捷指令” > 打开“允许不受信任的快捷指令”。
 
 1⃣️ 在 iPhone 或 iPad 的 Safari 中打开[华东师范大学登录主页](https://portal.ecnu.edu.cn)（⭐️注意要在 Safari 中打开）。
 
