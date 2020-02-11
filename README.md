@@ -1,8 +1,3 @@
----
-title: 一键生成课表
-date: 2020-02-11 17:36:58
----
-
 <div align="center">
   <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/Shortcuts_logo.png"
       height="50"
