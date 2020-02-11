@@ -1,5 +1,10 @@
+---
+title: 一键生成课表
+date: 2020-02-11 17:36:58
+---
+
 <div align="center">
-  <img align="center" src="./Images/Shortcuts_logo.png"
+  <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/Shortcuts_logo.png"
       height="50"
       width="50">
 </div>
@@ -13,6 +18,7 @@ A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to
   <img src="https://img.shields.io/badge/branch-master-brightgreen.svg">
   <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg">
 </div>
+
 
 https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
 
@@ -34,9 +40,9 @@ https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
 ## 效果如何？
 
 <div align="center">
-    <img src="./Images/ScreenShot_01.jpeg"
+    <img src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_01.jpeg"
        width="35%">
-    <img src="./Images/ScreenShot_04.png"
+    <img src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_04.png"
        width="35%">
     <div>
     	“下个日程” 组件效果 与 iPhone 日历 app 效果
@@ -45,7 +51,7 @@ https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
 
 
 <div align="center">
-  <img align="center" src="./Images/ScreenShot_02.png"
+  <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_02.png"
        width="100%">
 </div>
 
@@ -55,7 +61,7 @@ Mac 日历 app 效果
 
 
 <div align="center">
-  <img align="center" src="./Images/ScreenShot_03.png"
+  <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_03.png"
        width="100%">
 </div>
 
@@ -86,7 +92,7 @@ iPad 日历 app 效果
 > 在 iOS/iPadOS 13 中需要打开“**允许不受信任的快捷指令**”选项，才能自由地安装来自外部分享的快捷指令。您可能需要开启**允许不受信任的快捷指令**。具体路径为：**设置–快捷指令–共享安全性–允许不受信任的快捷指令**。如图所示：
 >
 > <div align="center">
-> <img align="center" src="./Images/ScreenShot_05.jpg"
+> <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_05.jpg"
 >     width="35%">
 > </div>
 >
@@ -109,7 +115,7 @@ iPad 日历 app 效果
 该 GIF 文件较大，可能需要等待较久。
 
 <div align="center">
-<img align="center" src="./Images/ScreenShot_06.gif"
+<img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_06.gif"
     width="35%">
 </div>
 
