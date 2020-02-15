@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/Shortcuts_logo.png"
+  <img align="center" src="./Images/Shortcuts_logo.png"
       height="50"
       width="50">
 </div>
@@ -14,9 +14,9 @@ A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to
   <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg">
 </div>
 
+https://www.icloud.com/shortcuts/ed50ac2d016c47a58b5407fc383b166e
 
-https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
-
+![封面](https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/2020-02-12-20-12-23.jpeg)
 
 ## 这是什么？
 
@@ -35,9 +35,9 @@ https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
 ## 效果如何？
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_01.jpeg"
+    <img src="./Images/ScreenShot_01.jpeg"
        width="35%">
-    <img src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_04.png"
+    <img src="./Images/ScreenShot_04.png"
        width="35%">
     <div>
     	“下个日程” 组件效果 与 iPhone 日历 app 效果
@@ -46,7 +46,7 @@ https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff
 
 
 <div align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_02.png"
+  <img align="center" src="./Images/ScreenShot_02.png"
        width="100%">
 </div>
 
@@ -56,7 +56,7 @@ Mac 日历 app 效果
 
 
 <div align="center">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_03.png"
+  <img align="center" src="./Images/ScreenShot_03.png"
        width="100%">
 </div>
 
@@ -82,12 +82,12 @@ iPad 日历 app 效果
 
 ## 如何使用？
 
-0⃣️ 在 Safari 中打开本快捷指令的[分享链接](https://www.icloud.com/shortcuts/c56acbb4c70347a09f7ad4c1b4cca1ff)，将其添加到您的快捷指令中。并<u>在快捷指令 app 内编辑该快捷指令，将学期 ID 修改为您需要的学期</u>，当前默认为 2019-2020学年第二学期，具体信息参阅快捷指令内的注释。（若您已卸载内置的快捷指令 app，可以在 App Store 中重新下载。）
+0⃣️ 在 Safari 中打开本快捷指令的[分享链接](https://www.icloud.com/shortcuts/ed50ac2d016c47a58b5407fc383b166e)，将其添加到您的快捷指令中。并<u>在快捷指令 app 内编辑该快捷指令，将学期 ID 修改为您需要的学期</u>，当前默认为 2019-2020学年第二学期，具体信息参阅快捷指令内的注释。（若您已卸载内置的快捷指令 app，可以在 App Store 中重新下载。）
 
 > 在 iOS/iPadOS 13 中需要打开“**允许不受信任的快捷指令**”选项，才能自由地安装来自外部分享的快捷指令。您可能需要开启**允许不受信任的快捷指令**。具体路径为：**设置–快捷指令–共享安全性–允许不受信任的快捷指令**。如图所示：
 >
 > <div align="center">
-> <img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_05.jpg"
+> <img align="center" src="./Images/ScreenShot_05.jpg"
 >     width="35%">
 > </div>
 >
@@ -110,7 +110,7 @@ iPad 日历 app 效果
 该 GIF 文件较大，可能需要等待较久。
 
 <div align="center">
-<img align="center" src="https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/ScreenShot_06.gif"
+<img align="center" src="./Images/ScreenShot_06.gif"
     width="35%">
 </div>
 
