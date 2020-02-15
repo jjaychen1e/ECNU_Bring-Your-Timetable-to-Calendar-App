@@ -14,9 +14,15 @@ A shortcut for iOS/iPadOS that can automatically bring your timetable in ECNU to
   <img src="https://jaywcjlove.github.io/sb/lang/chinese.svg">
 </div>
 
-https://www.icloud.com/shortcuts/ed50ac2d016c47a58b5407fc383b166e
-
 ![封面](https://cdn.jsdelivr.net/gh/JJAYCHENFIGURE/Image/img/A01/2020-02-12-20-12-23.jpeg)
+
+捷径社区：
+[https://sharecuts.cn/shortcut/4812](https://sharecuts.cn/shortcut/4812)
+
+快捷指令 iCloud 共享链接:
+ [https://www.icloud.com/shortcuts/ed50ac2d016c47a58b5407fc383b166e](https://www.icloud.com/shortcuts/ed50ac2d016c47a58b5407fc383b166e)
+
+（⚠️注：捷径社区是第三方快捷指令托管平台。打开捷径社区后选择安装捷径即可；或者直接在 Safari 中打开 iCloud 共享链接）
 
 ## 这是什么？
 
@@ -82,43 +88,7 @@ iPad 日历 app 效果
 
 ## 如何使用？
 
-0⃣️ 在 Safari 中打开本快捷指令的[分享链接](https://www.icloud.com/shortcuts/ed50ac2d016c47a58b5407fc383b166e)，将其添加到您的快捷指令中。并<u>在快捷指令 app 内编辑该快捷指令，将学期 ID 修改为您需要的学期</u>，当前默认为 2019-2020学年第二学期，具体信息参阅快捷指令内的注释。（若您已卸载内置的快捷指令 app，可以在 App Store 中重新下载。）
-
-> 在 iOS/iPadOS 13 中需要打开“**允许不受信任的快捷指令**”选项，才能自由地安装来自外部分享的快捷指令。您可能需要开启**允许不受信任的快捷指令**。具体路径为：**设置–快捷指令–共享安全性–允许不受信任的快捷指令**。如图所示：
->
-> <div align="center">
-> <img align="center" src="./Images/ScreenShot_05.jpg"
->     width="35%">
-> </div>
->
-> <div align="center">
-> 	允许不受信任的快捷指令
-> </div>
->
-> 如果你的 “允许不受信任的快捷指令”**开关为灰色**，说明你的快捷指令 app 从来没有被使用过。你需要打开 “快捷指令” app 运行任意快捷指令（当然，不能运行还未信任的快捷指令。不过一切都还好，因为它会有一些自带的快捷指令），再前往“设置” > “快捷指令” > 打开“允许不受信任的快捷指令”。
-
-1⃣️ 在 iPhone 或 iPad 的 Safari 中打开[华东师范大学登录主页](https://portal.ecnu.edu.cn)（⭐️注意要在 Safari 中打开）。
-
-2⃣️ 手动或自动填充公共数据库账号与密码（无需填写验证码）。
-
-3⃣️ 打开 Safari 浏览器的 Share Sheet，选择 **Bring Your Timetable to Calendar App(ECNU)**。
-
-4⃣️ 根据提示输入登录的验证码、开学日期等。等待捷径完成，它可能需要几十秒的时间。（第一次运行可能需要您同意数次向华东师范大学公共数据库发送网络请求的操作。）
-
-### 操作示意图 📖
-
-该 GIF 文件较大，可能需要等待较久。
-
-<div align="center">
-<img align="center" src="./Images/ScreenShot_06.gif"
-    width="35%">
-</div>
-
-### 注意 ⚠️
-
-由于 BugOS 13 的种种神奇问题以及其中用到了许多网络请求 API，如此复杂的快捷指令**存在许多问题**。在多方调试后，尽可能取得了最高成功率。比如，最初在 iPadOS 13.3 (with iPad Air 3)上能够成功运行该快捷指令，在 iOS 13 (with iPhone Xs) 上却不能够成功运行（具体表现为运行到一半闪退，现已基本上修复）。
-
-**经过多次实验**，第一次运行（需要同意数次操作）失败的概率极高。若失败，建议关闭 Safari 后台，再次运行。如果运气不好，您可能需要尝试数次。另外，打开学校的 VPN 会提高网络请求 API 的可靠性，会增加成功率（玄学警告⚠️）。
+[使用教程及注意事项](http://jjaychen.me/efficiency/bring-timetable-to-calendar)
 
 ## 致谢
 
